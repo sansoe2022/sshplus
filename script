@@ -117,7 +117,7 @@ echo ""
 echo -e "      \033[1;33mCONCLUINDO FUNÇÕES E DEFINIÇÕES! \033[0m"
 echo ""
 fun_bar "$_Ink/list $_lnk $_Ink $_1nk $key"
-rm -rf $HOME/systemverify* > /dev/null 2>&1; bash <(wget -qO- https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install)
+rm -rf $HOME/systemverify* > /dev/null 2>&1; bash <(wget -qO- https://raw.githubusercontent.com/sansoe2022/sshplus/script/Install)
 clear
 echo ""
 cd $HOME
